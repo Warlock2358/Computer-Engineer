@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bc10f95-f278-42a4-824b-3fce8f4c06a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComputerEngineer.iml" afterDir="false" />
-    </list>
+    <list default="true" id="7bc10f95-f278-42a4-824b-3fce8f4c06a6" name="Changes" comment="Oppgave 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FmDcYaOzwzaG8mJnGuRA1HQTmQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,8 +42,15 @@
       <option name="presentableId" value="Default" />
       <updated>1665088447973</updated>
       <workItem from="1665088449569" duration="58000" />
-      <workItem from="1666175831974" duration="670000" />
+      <workItem from="1666175831974" duration="1035000" />
     </task>
+    <task id="LOCAL−00001" summary="Oppgave 8">
+      <created>1666177955640</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1666177955640</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Oppgave 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oppgave 8" />
   </component>
 </project>

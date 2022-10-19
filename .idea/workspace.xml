@@ -10,8 +10,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="06e9aa7c-4843-4f37-8744-4b3c159b7de2" />
+        <option name="url" value="https://github.com/Warlock2358/Oving-Oppgaver.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665088447973</updated>
       <workItem from="1665088449569" duration="58000" />
-      <workItem from="1666175831974" duration="1035000" />
+      <workItem from="1666175831974" duration="1346000" />
     </task>
     <task id="LOCAL−00001" summary="Oppgave 8">
       <created>1666177955640</created>
@@ -50,7 +65,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1666177955640</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Oppgave 8">
+      <created>1666178317272</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1666178317272</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Oppgave 8">
+      <created>1666178603127</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1666178603127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
